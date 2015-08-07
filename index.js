@@ -23,7 +23,7 @@
     });
   });
 
-  http.listen(3000, function() {
+  http.listen(3002, function() {
     return console.log('listening on *:3000');
   });
 
